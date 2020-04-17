@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AssociaServices/v16
+/AssociaServices/bin/Debug/netcoreapp3.0
+/AssociaServices/obj
+/AssociaServices.Repositories/bin/Debug/netcoreapp3.0
+/AssociaServices.Repositories/obj
+/AssociaServices.Security/bin/Debug/netcoreapp3.0
+/AssociaServices.Security/obj
